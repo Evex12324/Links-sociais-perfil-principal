@@ -1,4 +1,4 @@
-# Portifólio Simplificado
+# Links sociais perfil principal
 
 ![Visualização do site Portifólio simplificado](./github/capa-do-projeto.png)
 
